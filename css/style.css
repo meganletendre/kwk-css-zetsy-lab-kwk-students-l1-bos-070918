@@ -28,7 +28,7 @@ h1 {
     font-weight: normal;
     font-family: 'Baskerville', serif;
     border-bottom: 1px solid #ccc;
-    tex-decoration-line:
+    text-decoration: underline;
 }
 
 h2 {
